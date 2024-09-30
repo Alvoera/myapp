@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "676877393250",
+    "project_id": "posyanduproject-6497f",
+    "storage_bucket": "posyanduproject-6497f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676877393250:android:9eeabd2886a792d6c3203b",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa6lPRpIWi189eC0dIUKkoFsMDFznV9-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676877393250:android:83799ed46292550dc3203b",
+        "android_client_info": {
+          "package_name": "com.nakes.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa6lPRpIWi189eC0dIUKkoFsMDFznV9-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
